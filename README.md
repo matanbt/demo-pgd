@@ -1,8 +1,8 @@
-# Demonstrating PGD
+# Attacking Image Classifiers
 
-Demonstrating a targeted, inference-time, adversarial example attack on state-of-the-art image classifiers.
+Demonstrating an inference-time adversarial-example attack on state-of-the-art image classifiers.
 
-[[Colab Notebook]]()
+[[Colab Notebook]](https://colab.research.google.com/github/matanbt/demo-pgd/blob/main/demo-pgd.ipynb)
 
 ### Notes
 - Targets the 1st ranked model in [`timm`'s leaderboard](https://huggingface.co/spaces/timm/leaderboard).
