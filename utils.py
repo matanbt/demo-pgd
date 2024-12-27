@@ -3,7 +3,7 @@ from typing import List
 import torchvision
 import torch
 
-with open("imagenet1000_clsidx_to_labels.txt") as f:
+with open("data/imagenet1000_clsidx_to_labels.txt") as f:
     idx2label = eval(f.read())
 
 
