@@ -2,7 +2,7 @@
 
 Demonstrating an inference-time adversarial-example attack on state-of-the-art image classifiers.
 
-[[Colab Notebook]](https://colab.research.google.com/github/matanbt/demo-pgd/blob/main/demo-pgd.ipynb)
+[[Blogpost]](https://matanbt.github.io/post/pgdemo2024/)  |  [[Colab Notebook]](https://colab.research.google.com/github/matanbt/demo-pgd/blob/main/demo-pgd.ipynb)
 
 ### Notes
 - All logic is implemented from scratch and self-contained in the [notebook](./demo-pgd.ipynb).
